@@ -1,0 +1,98 @@
+
+
+.photo {
+
+    background-image: url("images/Vanessa.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    text-align: justify;
+    margin-bottom: 3%;
+    }
+
+
+#hi {
+    font-family: 'Lily Script One', cursive;
+    font-size: 70px;
+    margin-left: 80px;
+    padding-top: 50px;
+    color: azure
+    
+}
+
+#name {
+font-family: 'Amatic SC', cursive;
+font-size: 100px;
+margin-left: 120px;
+margin-top: -20px;
+color: white;
+
+}
+
+
+
+body {
+   background-image: url("images/back.png");
+   display: block;
+   font-family: 'Nanum Gothic', sans-serif;
+   list-style-type: disc;
+   text-align: justify;
+   margin: 0%;
+   color: rgb(52, 25, 25);
+
+}
+
+p, ol, ul {
+    margin-left: 70px;
+    font-size: 15px;
+    line-height: 1.5;
+    margin-right: 20px;
+
+}
+
+h2, h3 {
+    margin: -3px;
+    font-size: 20px;
+    margin-left: 40px;
+    letter-spacing: 0px;
+}
+
+.footer {
+
+    border-top: 5px solid rgb(102, 0, 51);
+    background-image: url("images/dust.png");
+    background-size: auto;
+    background-position: center;
+    font-family: 'Nanum Gothic', sans-serif;
+    list-style-type: disc;
+    height: 80px;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 35px;
+    
+}
+
+a:link {
+    color: rgb(255, 255, 204);
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: rgb(255, 204, 204);
+    text-decoration: underline;
+    
+}
+
+a:active {
+    color: rgb(255, 153, 204);
+    text-decoration: underline;
+}
+
+.section {
+    width: 95%;
+    text-align: justify;
+}

@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(250, 185, 165);
+    color: rgb(165, 83, 74);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif; 
+}
+#banner-top {
+    width: 100%;
+    background-color: #8FD8D2;
+    padding: 20px;
+}
+#image {
+    width: 33%;
+    float: left;
+}
+#bio {
+    width: 67%; 
+    float: left;
+}
+#main-content {
+    width: 100%;
+    text-align: left;
+    background-color: #EAC67A;
+    padding: 20px;
+}
+.clear {
+    clear: both;
+    content: ""
+}
+
+.bottom-border {
+    border-bottom: solid 5px rgb(81, 107, 136);
+}
+#links {
+    background-color: #D7CEC7;
+    width: 100%;
+    padding: 20px;
+}
+
+#title {
+    text-align: center;
+    border: solid 5px rgb(235, 204, 204);
+
+}
