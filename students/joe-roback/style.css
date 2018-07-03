@@ -1,0 +1,42 @@
+body {
+    background: #141E30;
+    background: -webkit-linear-gradient(-45deg, rgb(3, 60, 124), #141E30);
+    background: linear-gradient(-45deg, rgb(7, 23, 43), #141E30);
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    color: rgb(123, 255, 0);
+    font-family: kebab case;
+    text-align: center;
+  }
+  
+  h2 {
+  
+    color:  rgb(123, 255, 0);
+    text-align: left;
+    font-family: kebab case;
+  }
+  h3 {
+    border-bottom: 1px solid rgb(123, 255, 0);
+    color:  rgb(123, 255, 0);
+    font-family: kebab case;
+    text-align: center;
+
+    ul {
+        border-bottom: 1px solid rgba(255, 255, 255, 0);
+        color:  rgb(123, 255, 0);
+        font-family: kebab case;
+  
+  p {
+    color:  rgb(123, 255, 0);
+    text-align: left;
+    font-family: kebab case;
+  }
+
+  .image {
+    background-image: url("https://www.facebook.com/photo.php?fbid=10156364321137086&set=a.10152667847757086.1073741834.508502085&type=3&theater"");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
